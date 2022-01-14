@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Daniel. Feel free to explore my repositories and don't forget to check out my website where I posts blog articels every now and then.
+
 <!--
 **greenbase/greenbase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
